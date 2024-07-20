@@ -3,6 +3,7 @@
 HotMoon is a responsive React application that allows users to search for movies using the OMDb API. This app displays movie information including the title, release year, and type. It's a great example of how to integrate a third-party API with a modern front-end framework.
 
 ## Working with Image
+![Screenshot 2024-07-20 215726](https://github.com/user-attachments/assets/ce5afe18-7512-43ef-809f-00b6eb65f73b)
 
 The application uses the OMDb API to fetch movie data. The fetched data is then displayed in a grid of movie cards, each showing the movie's poster, title, year of release, and type.
 
